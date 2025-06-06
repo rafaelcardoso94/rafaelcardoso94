@@ -3,7 +3,7 @@
 
 ---
 
-## 👨‍💻 Sobre
+## 👨‍💻 Sobre Mim
 
 Sou engenheiro DevOps com experiência em automação de infraestrutura, containers, orquestração com Kubernetes, pipelines CI/CD e ambientes em nuvem (AWS e Azure).
 Tenho foco em soluções resilientes, seguras e escaláveis, aplicando práticas modernas de infraestrutura como código, observabilidade e deployment contínuo.
